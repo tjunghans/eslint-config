@@ -1,0 +1,23 @@
+{
+  "name": "eslint-config-cx",
+  "main": "./index.js",
+  "version": "0.0.0",
+  "description": "Core eslint configuration",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eslint",
+    "config",
+    "core"
+  ],
+  "files": [
+    "index.js"
+  ],
+  "author": "Thomas Junghans <thomas.junghans@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tjunghans/eslint-config.git"
+  }
+}
